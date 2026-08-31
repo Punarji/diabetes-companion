@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+build/
+.expo/
+.expo-shared/
+
+# Env & secrets
+.env
+.env.local
+*.pem
+
+# ML artifacts
+ml-training/data/raw/*
+ml-training/data/processed/*
+ml-training/models/*.pkl
+ml-training/models/*.joblib
+!ml-training/data/raw/.gitkeep
+!ml-training/data/processed/.gitkeep
+!ml-training/models/.gitkeep
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
