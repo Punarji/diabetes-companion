@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "T2DM Companion",
+    "slug": "diabetes-companion-mobile",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#0F4C46"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.diabetescompanion.mobile"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}

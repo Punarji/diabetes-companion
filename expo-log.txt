@@ -1,0 +1,4 @@
+Node.js (v20.11.1) is outdated and unsupported. Please update to a newer Node.js LTS version (required: >=20.19.4)
+Go to: https://nodejs.org/en/download
+
+ConfigError: The expected package.json path: C:\Users\Punar\OneDrive\Documents\GitHub\Em\diabetes-companion\package.json does not exist
